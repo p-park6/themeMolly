@@ -9,5 +9,5 @@ theme_molly <- function() {
         panel.background = element_rect(fill = "burlywood2"),
         axis.title.x = element_text(colour = "black"),
         axis.title.y = element_text(color = "black"),
-        panel.grid = element_line(color = "white"))
+        panel.grid = element_line(color = "white"),)
 }
